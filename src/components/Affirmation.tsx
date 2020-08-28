@@ -32,7 +32,7 @@ const Affirmation: React.FC = () => {
 
     return (
         <div className="max-w-2xl rounded overflow-hidden shadow-2xl m-auto w-2/3" id="card">
-            <div className="p-20 text-center text-white">
+            <div className="p-20 text-center text-white shadow-text">
                 <div className="font-bold text-xl mb-2">Daily Affirmation:</div>
                 <p id="message" className="font-bold text-base capitalize">
                     {affirmation}
