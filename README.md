@@ -5,9 +5,10 @@
 The word affirmation comes from the Latin affirmare, originally meaning "to make steady, strengthen."<br>
 Affirmations are proven methods of self-improvement because of their ability to rewire our brains. [Link](https://www.huffpost.com/entry/affirmations_b_3527028)<br><br>
 To help out, Dulce gives you a daily affirmation. 
-Built with React and TypeScript. Powered by coffee :coffee: and barks :dog:. 
+Built with React and TypeScript.<br>
+Powered by coffee :coffee: and barks :dog:. 
 
-![alt text](docs/giphy.gif)
+![alt text](docs/home.png)
 
 ## 🔨 Tools
 - TypeScript
@@ -21,12 +22,13 @@ Built with React and TypeScript. Powered by coffee :coffee: and barks :dog:.
 
 ## ✨ Live Demo
 
-You can look at it [here]() //to be updated.
+You can look at it [here.](https://dulce-namaste.netlify.app/)
 
 
 ## ⚒️ To-do
 
 - Implement light/dark mode toggle
+- Loading a new affirmation on card flip action
 
 ## Author
 
