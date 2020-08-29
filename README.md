@@ -3,10 +3,12 @@
 
 # 💻 Dulce Namaste (BETA)
 The word affirmation comes from the Latin affirmare, originally meaning "to make steady, strengthen."<br>
-Affirmations are proven methods of self-improvement because of their ability to rewire our brains. [Link](https://www.huffpost.com/entry/affirmations_b_3527028)<br><br>
-To help out, Dulce gives you a daily affirmation. 
+Affirmations are proven methods of self-improvement because of their ability to rewire our brains.<br>
+[More info here](https://www.huffpost.com/entry/affirmations_b_3527028)<br><br>
+To help out, Dulce gives you a daily affirmation.<br>
+Front-end for [Affirmations-API](https://github.com/misselliev/affirmations-api)<br>
 Built with React and TypeScript.<br>
-Powered by coffee :coffee: and barks :dog:. 
+Powered by coffee:coffee: and barks :dog:. 
 
 ![alt text](docs/home.png)
 
