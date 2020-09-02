@@ -10,7 +10,7 @@ Front-end for [Affirmations-API](https://github.com/misselliev/affirmations-api)
 Built with React and TypeScript.<br>
 Powered by coffee:coffee: and barks :dog:. 
 
-![alt text](docs/home.png)
+![homepage screen](docs/home.png)
 
 ## 🔨 Tools
 - TypeScript
