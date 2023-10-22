@@ -7,8 +7,7 @@ const Affirmation: React.FC = () => {
         await axios
             .get('https://dulce-affirmations-api-39977e6214e6.herokuapp.com/api/affirmation')
             .then((res) => {
-                const response = JSON.stringify(Object.values(res.data[0])).replace(/[[\]"']+/g, '');
-                console.log(res, response);
+                const response = res.data;
                 setAffirmation(response);
             })
             .catch((err) => {
