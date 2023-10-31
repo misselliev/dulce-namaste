@@ -5,7 +5,7 @@ const Affirmation: React.FC = () => {
     const [affirmation, setAffirmation] = useState('');
     async function getAffirmation() {
         await axios
-            .get('https://dulce-affirmations-api-39977e6214e6.herokuapp.com/api/affirmation')
+            .get('https://woof-affirmations-api.vercel.app/api/affirmation')
             .then((res) => {
                 const response = res.data;
                 setAffirmation(response);
